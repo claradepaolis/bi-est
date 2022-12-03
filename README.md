@@ -21,13 +21,13 @@ Run optimization with
 If you use this code for research, please cite our accompaying paper:
 
 ```
-@article{depaoliskaluza2022bias,
-  author={De Paolis Kaluza, M. Clara and Jain, Shantanu and Radivojac, Predrag},
+@inproceedings{depaoliskaluza2022bias,
   title={An Approach to Identifying and Quantifying Bias in Biomedical Data},
-  year={2022},  
-  url={tbd},
-  journal={bioRxiv}
-  }
+  author={De Paolis Kaluza, M. Clara and Jain, Shantanu and Radivojac, Predrag},
+  booktitle={Pacific Symposium on Biocomputing 2023: Kohala Coast, Hawaii, USA, 3--7 January 2023},
+  pages={311--322},
+  year={2022},
+}
 ```
 
 ## License
